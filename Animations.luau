@@ -11,5 +11,5 @@ return {
 	["UnSummon"] = "rbxassetid://",
 
 	--* The World
-	["TheWorld-TimeStopPlayer"] = "rbxassetid://77033957771549",
+	["TheWorld-TimeStopPlayer"] = "rbxassetid://",
 }
